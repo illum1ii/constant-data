@@ -1,7 +1,8 @@
 module.exports.PetHeads = {
     PetHeads: {
-        "BAL": { "head": "/head/c469ba2047122e0a2de3c7437ad3dd5d31f1ac2d27abde9f8841e1d92a8c5b75" },
-        "ARMADILLO": { "head": "/head/c1eb6df4736ae24dd12a3d00f91e6e3aa7ade6bbefb0978afef2f0f92461018f" },
+        "GOLDEN_DRAGON": { "head": "https://sky.shiiyu.moe/head/2e9f9b1fc014166cb46a093e5349b2bf6edd201b680d62e48dbf3af9b0459116" },
+        "BAL": { "head": "https://sky.lea.moe/head/c469ba2047122e0a2de3c7437ad3dd5d31f1ac2d27abde9f8841e1d92a8c5b75" },
+        "ARMADILLO": { "head": "https://sky.lea.moe/head/c1eb6df4736ae24dd12a3d00f91e6e3aa7ade6bbefb0978afef2f0f92461018f" },
         "BAT": { "head": "https://sky.lea.moe/head/382fc3f71b41769376a9e92fe3adbaac3772b999b219c9d6b4680ba9983e527" },
         "BLAZE": { "head": "https://sky.lea.moe/head/b78ef2e4cf2c41a2d14bfde9caff10219f5b1bf5b35a49eb51c6467882cb5f0" },
         "CHICKEN": { "head": "https://sky.lea.moe/head/7f37d524c3eed171ce149887ea1dee4ed399904727d521865688ece3bac75e" },
