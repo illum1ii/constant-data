@@ -2,6 +2,9 @@
   "WAND_OF_HEALING": {
     "name": "Wand of Healing"
   },
+  "SLEEPING_EYE": {
+    "name": "Sleeping Eye"
+  },
   "JINGLE_BELLS": {
     "name": "Jingle Bells"
   },
@@ -82,6 +85,9 @@
   },
   "END_STONE_BOW": {
     "name": "End Stone Bow"
+  },
+  "ZOMBIE_BOOTS": {
+    "nam": "Zombie Boots"
   },
   "ORNATE_ZOMBIE_SWORD": {
     "name": "Ornate Zombie Sword"
