@@ -29,10 +29,10 @@
         "tierLevel": 5,
         "tierColor": "FF55FC"
     },
-    "SUPREME": {
-        "tierName": "Supreme",
+    "DIVINE": {
+        "tierName": "Divine",
         "tierLevel": 6,
-        "tierColor": "B50005"
+        "tierColor": "4FE2E3"
     },
     "SPECIAL": {
         "tierName": "Special",
